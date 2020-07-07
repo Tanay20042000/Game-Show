@@ -1,0 +1,75 @@
+h1
+{
+    color:red;
+    background-color:lightseagreen;
+    border:5px outset darkorange;
+    text-align:center;
+}
+
+h2
+{
+    color:saddlebrown;
+    background-color:lightgray;
+    border:3px solid mediumslateblue;
+}
+
+h3
+{
+    color:green;
+    background-color:moccasin;
+    text-align:center;
+}
+
+.transfer p
+{
+    color:white;
+    background-color:navy;
+    font-size:25px;
+    font-weight: bold;
+    border-radius: 50%;
+    border:4px solid mediumseagreen;
+    margin:5px 5px 5px 5px;
+    text-align:center;
+    padding:10px 10px 10px 10px;
+    font-style: italic;
+}
+
+.play p
+{
+    color:white;
+    background-color:navy;
+    font-size:25px;
+    font-weight: bold;
+    border-radius: 50%;
+    border:4px solid mediumseagreen;
+    margin:5px 5px 5px 5px;
+    text-align:center;
+    padding:10px 10px 10px 10px;
+    font-style: italic;
+}
+
+p{
+    font-size:18px;
+    color:darkslateblue;
+}
+
+img
+{
+    height:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+a
+{
+    color:brown;
+    text-decoration:none;
+    font-weight: bold;
+}
+
+body
+{
+    background-color:lightcoral
+}
